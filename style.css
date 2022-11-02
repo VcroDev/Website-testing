@@ -1,0 +1,35 @@
+header {
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: indianred;
+}
+html {
+    background-color: black;
+}
+h1 {
+    color: darkred;
+    font-size: x-large;
+}
+h2 {
+    color: darkred;
+    font-size: x-large;
+}
+h3 {
+    color: darkred;
+    font-size: x-large;
+}
+h4 {
+    color: lightsalmon;
+    font-size: x-large;
+}
+img {  
+    width: 200px;  
+    height: 200px;   
+}
+.myDiva {
+    width: 450px;  
+    height: 75px;   
+}  
